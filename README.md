@@ -10,17 +10,15 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 
 ### 42 Stats
 <div>
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31x4ntr008409jish868phx/stats?cursusId=36&coalitionId=piscine" alt="femarque's 42 stats" /></a>
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31x4ntr008409jish868phx/stats?cursusId=21&coalitionId=undefined" alt="femarque's 42 stats" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl31x4ntr008409jish868phx/stats?cursusId=36&coalitionId=piscine" alt="femarque's 42 stats" /></a><a href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl31x4ntr008409jish868phx/stats?cursusId=21&coalitionId=undefined" alt="femarque's 42 stats" /></a>
 </div>
 
 ##
 
 ### GitHub Stats
 <div>
-<a href="http://www.github.com/nands93"><img src="https://github-readme-stats.vercel.app/api?username=nands93&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="Fernando's Github" /></a>
-<a href="http://www.github.com/nands93"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nands93&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" /></a>
- </div>
+<a href="https://github.com/nands93"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nands93&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Fernando's github stats" /></a><a href="http://www.github.com/nands93"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nands93&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></a>
+</div>
  
  ##
  
