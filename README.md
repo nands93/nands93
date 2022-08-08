@@ -16,11 +16,6 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 | [pipex](https://github.com/nands93/pipex)               | C          | WIP|Recreate the shell pipe behavior.                                     |                     |
 
 
-### 42 Stats
-<div>
-  <a href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl31x4ntr008409jish868phx/stats?cursusId=36&coalitionId=piscine" alt="femarque's 42 stats" /></a><a href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl31x4ntr008409jish868phx/stats?cursusId=21&coalitionId=undefined" alt="femarque's 42 stats" /></a>
-</div>
-
 ##
 
 ### GitHub Stats
