@@ -9,11 +9,11 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 
 | Project                                                  |  Language  | Grade                                                                                                                                                                   | Description                                                           |
 |----------------------------------------------------------|------------|------|-----------------------------------------------------------------------|
-| [libft](https://github.com/nands93/libft)               | C          | 125% |Create a library of basic functions.                                                                                                                                                                      |
-| [GNL](https://github.com/nands93/get_next_line)         | C          | 125% |Read a single line from a file descriptor, can be used in a loop.
-| [ft_printf](https://github.com/nands93/ft_printf)       | C          | 100% |Recode the standard C library function, printf.             |
+| libft            | C          | 125% |Create a library of basic functions.                                                                                                                                                                      |
+| GNL         | C          | 125% |Read a single line from a file descriptor, can be used in a loop.
+| ft_printf       | C          | 100% |Recode the standard C library function, printf.             |
 | born2beroot   | Shell, CLI | 110% |Create a virtual machine to host a Debian server.                     |
-| [pipex](https://github.com/nands93/pipex)               | C          | 100% |Recreate the shell pipe behavior.                                     |                     |
+| pipex               | C          | 100% |Recreate the shell pipe behavior.                                     |                     |
 
 
 ##
