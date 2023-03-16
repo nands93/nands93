@@ -5,21 +5,11 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 
 ##
 
-### 42 Rio Projects
-
-| Project                                                  |  Language  | Grade                                                                                                                                                                   | Description                                                           |
-|----------------------------------------------------------|------------|------|-----------------------------------------------------------------------|
-| libft            | C          | 125% |Create a library of basic functions.                                                                                                                                                                      |
-| GNL         | C          | 125% |Read a single line from a file descriptor, can be used in a loop.
-| ft_printf       | C          | 100% |Recode the standard C library function, printf.             |
-| born2beroot   | Shell, CLI | 110% |Create a virtual machine to host a Debian server.                     |
-| pipex               | C          | 100% |Recreate the shell pipe behavior.                                     |                     |
-
-
-##
-
 ### GitHub Stats
-[![nands93's github stats](https://github-readme-stats.vercel.app/api?username=nands93&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/nands93"><img src="https://github-readme-streak-stats.herokuapp.com?user=nands93&show_icons=true&count_private=true&theme=omni&include_all_commits=true" /></a>
+<a href="https://github.com/nands93"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nands93&layout=compact&theme=omni" alt="nands93's GitHub stats" /></a>
+</div>
  
  ##
  
