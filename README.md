@@ -6,10 +6,13 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 ##
 
 ### GitHub Stats
-<div>
-<a href="https://github.com/nands93"><img src="https://github-readme-streak-stats.herokuapp.com?user=nands93&show_icons=true&count_private=true&theme=omni&include_all_commits=true" /></a>
+![nands93's GitHub stats](https://github-readme-stats.vercel.app/api?username=nands93&count_private=true&show_icons=true&theme=nightowl)
+
+<a href="https://github.com/nands93"><img src="https://github-readme-streak-stats.herokuapp.com?user=nands93&show_icons=true&count_private=true&theme=nightowl&include_all_commits=true" /></a>
+
+<a href="https://www.github.com/nands93"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nands93&theme=nightowl&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ 
 <a href="https://github.com/nands93"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nands93&layout=compact&theme=omni" alt="nands93's GitHub stats" /></a>
-</div>
  
  ##
  
