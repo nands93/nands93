@@ -7,14 +7,13 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 
 ### GitHub Stats
 
-<a href="https://github.com/nands93"><img src="https://github-readme-stats.vercel.app/api?username=nands93&count_private=true&show_icons=true&theme=nightowl" alt="nands93's GitHub stats" /></a>
+<p align="center">
+<a href="https://github.com/nands93">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nands93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nands93&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<a href="https://github.com/nands93"><img src="https://github-readme-streak-stats.herokuapp.com?user=nands93&show_icons=true&count_private=true&theme=nightowl&include_all_commits=true" /></a>
-
-<a href="https://www.github.com/nands93"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nands93&theme=nightowl&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
- 
-<a href="https://github.com/nands93"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nands93&layout=compact&theme=omni" alt="nands93's GitHub stats" /></a>
- 
  ##
  
  ### Social Media
