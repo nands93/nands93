@@ -1,7 +1,7 @@
 ## Olá, me chamo Fernando 👋
 =================================
 
-Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software que conta com [42 campus em 25 países](https://www.42network.org/42-schools/).
+Sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software que conta com [42 campus em 25 países](https://www.42network.org/42-schools/).
 
 ##
 
