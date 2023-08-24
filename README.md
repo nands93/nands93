@@ -23,4 +23,5 @@ Sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software qu
 #
 
 <img src="https://komarev.com/ghpvc/?username=nands93&color=blue&style=for-the-badge&label=visitors" />
+<a href="https://wakatime.com/@f3a124eb-0b1e-413a-9288-091c6364fc45"><img src="https://wakatime.com/badge/user/f3a124eb-0b1e-413a-9288-091c6364fc45.svg?style=for-the-badge" alt="Total time coded since Mar 29 2023" /></a>
 
