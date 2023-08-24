@@ -24,4 +24,5 @@ Sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software qu
 
 #
 
-<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=nands93&color=blue&style=flat&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=nands93&color=blue&style=for-the-badge&label=visitors" />
+
